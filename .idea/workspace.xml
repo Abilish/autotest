@@ -17,11 +17,10 @@
       <change afterPath="$PROJECT_DIR$/../../testPlatform1/tptest/templates/__init__.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../testPlatform1/tptest/templates/home.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../testPlatform1/tptest/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apitest/templates/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/templates/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/product/templates/product_manage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apitest/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/apitest/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apitest/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apitest/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autotest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/autotest/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autotest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/autotest/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +100,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666488485256</updated>
-      <workItem from="1666488486457" duration="13470000" />
+      <workItem from="1666488486457" duration="19633000" />
     </task>
     <servers />
   </component>

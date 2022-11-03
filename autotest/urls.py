@@ -17,11 +17,13 @@ from django.contrib import admin
 from django.urls import path
 
 from apitest import views
+from product import proviews
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('test/', views.test),
     path('login/', views.login),
     path('home/', views.home),
-    path('logout/', views.logout)
+    path('logout/', views.logout),
+    path('product_manage/', proviews.product_manage),
 ]
